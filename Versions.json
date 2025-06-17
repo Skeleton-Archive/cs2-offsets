@@ -1,4 +1,7 @@
-(
-version:1
-link:https://www.mediafire.com/file/emiz428hgimtka8/Syfer-engs+cs2+external.exe/file
-)
+{
+  "latest_version": "1.1",
+  "download_links": {
+    "1.1": "https://www.mediafire.com/file/emiz428hgimtka8/Syfer-engs+cs2+external.exe/file",
+    "1.0": "https://www.mediafire.com/file/2rtcns1tv184sjz/Syfer-engs_cs2_external.exe/file"
+  }
+}
